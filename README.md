@@ -11,6 +11,8 @@ Presentaciòn : https://docs.google.com/presentation/d/1wt4DdL7Cx4CCD6thVkpcoRcK
 
 https://docs.google.com/presentation/d/1wt4DdL7Cx4CCD6thVkpcoRcKAt9obuulIzCdMmzPHpQ/edit#slide=id.g25ee9d5e87b_5_33
 
+Presupuesto: https://docs.google.com/spreadsheets/d/1RlQKmEy5stK0Z0bhp_BFrMT03l5Su3p_/edit?usp=sharing&ouid=108685538930115071851&rtpof=true&sd=true
+
 1. creamos un directorio vacio con cypress-e2e
 npm init
 2.creamos cypress 

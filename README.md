@@ -8,6 +8,9 @@ APB Doc : https://docs.google.com/document/d/1rmftfyLFyKEYx1zuIeoir3y3T00bk2Fr/e
 
 Presentaciòn : https://docs.google.com/presentation/d/1wt4DdL7Cx4CCD6thVkpcoRcKAt9obuulIzCdMmzPHpQ/edit#slide=id.p
 
+
+https://docs.google.com/presentation/d/1wt4DdL7Cx4CCD6thVkpcoRcKAt9obuulIzCdMmzPHpQ/edit#slide=id.g25ee9d5e87b_5_33
+
 1. creamos un directorio vacio con cypress-e2e
 npm init
 2.creamos cypress 
